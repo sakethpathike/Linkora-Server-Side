@@ -1,0 +1,1 @@
+rootProject.name = "com.sakethh.linkora-server-side"
